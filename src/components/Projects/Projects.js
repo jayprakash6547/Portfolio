@@ -23,7 +23,7 @@ function Projects() {
               imgPath={Blood}
               isBlog={false}
               title="Blood Bank"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
+              description="This is a progressive web app which is designed for four roles donar,admin,hospital and organization. It is a platform where donar can donate blood and hospital and organization can request for blood.Organization can also request for blood camp. "
               ghLink="https://github.com/jayprakash6547/Blood-bank-app"
               // demoLink="https://chatify-49.web.app/"
             />
@@ -34,7 +34,7 @@ function Projects() {
               imgPath={TodoList}
               isBlog={false}
               title="Todo List"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
+              description="This is a progressive web app Which allow user to manage task,add,view,update and delete task.Implement user authentication using JWT token and store data in MongoDB."
               ghLink="https://github.com/jayprakash6547/MERN-Todoapp"
               // demoLink="https://blogs.soumya-jit.tech/"
             />
