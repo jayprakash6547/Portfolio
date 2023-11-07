@@ -56,7 +56,7 @@ function Projects() {
               imgPath={TextUtils}
               isBlog={false}
               title="Text Utils"
-              description="A Progressive Web App which converts the upper case letter to lowe case and lowercase letter to upper case letter and anyone."
+              description="A Progressive Web App which converts the upper case letter to lower case and lowercase letter to upper case letter and many more."
               ghLink="https://github.com/jayprakash6547/TextUtils"
               demoLink="https://jayprakash6547.github.io/TextUtils/"
             />
