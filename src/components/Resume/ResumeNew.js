@@ -2,9 +2,9 @@ import React, { useState, useEffect } from "react";
 import { Container, Row } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
 import Particle from "../Particle";
-
-// import pdf from "../Assets/../About/Jay.pdf"
-import pdf from "../Assets/../About/Pdf/Jay.pdf"
+// import pdf from "../Assets/../About/Pdf/Jay Prakash Mangal resume.pdf"
+// import pdf from "../Assets/JAYPRAKASH RESUME.pdf"
+import pdf from "../Assets/../About/Pdf/JAYPRAKASH RESUME.pdf"
 
 
 import { AiOutlineDownload } from "react-icons/ai";
