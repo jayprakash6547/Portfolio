@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { Container, Row } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
-import Particle from "../Particle";
+import Particle from "../
 import pdf from "../Assets/../About/Pdf/JAYPRAKASH MANGAL RESUME (2).pdf"
 
 
